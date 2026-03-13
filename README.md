@@ -22,6 +22,9 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 
 #### Recommended hot 🔥 Newsletters
 
+-[SuperpowerDaily](https://www.superpowerdaily.com/)
+-[Alpha Signal AI](https://alphasignal.ai/)
+
 
 
 
