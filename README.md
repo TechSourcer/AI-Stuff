@@ -20,7 +20,7 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 
 #### Commercial AI Tools 
 
-#### Recommended hot Newsletters
+#### Recommended hot 🔥 Newsletters
 
 
 
