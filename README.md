@@ -26,7 +26,7 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 - [Scribe AI](https://chromewebstore.google.com/detail/scribe-ai-documentation-s/okfkdaglfjjjfefdcppliegebpoegaii)
 - [Superpower for ChatGPT](https://chromewebstore.google.com/detail/superpower-for-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc)
 
-#### Commercial AI Tools for Sourcing and HR 
+#### I Tools for Sourcing and HR 
 
 - [Talentwunder](https://talentwunder.com/)
 - [Juicebox AI](https://juicebox.ai/)
@@ -46,7 +46,17 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 
 #### AI Presentation
 
--[Napkin AI](https://www.napkin.ai/)
+- [Napkin AI](https://www.napkin.ai/)
+- [Synthesia.io](https://www.synthesia.io/de)
+- [Beautiful.ai](https://www.beautiful.ai/)
+
+#### Discover more AI products (ranking list, product list, recommendation list etc.)
+
+- [Genai Works Ranking List](https://genai.works/ranking)
+- [AI Multiple - discover AI & SW Benachmarks](https://aimultiple.com/)
+
+
+Have fun!!!
 
 
 
