@@ -40,7 +40,16 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 #### AI Text to Video
 
 - [Freepik AI](https://de.freepik.com/)
-- [Deevid Ai]
+- [Deevid Ai](https://deevid.ai/de)
+- [Sora AI](https://sora.chatgpt.com/explore)
+- [Veo](https://aistudio.google.com/models/veo-3)
+
+#### AI Presentation
+
+-[Napkin AI](https://www.napkin.ai/)
+
+
+
   
 
 
