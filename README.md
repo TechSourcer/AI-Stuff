@@ -15,6 +15,7 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 - [OpenAI](https://openai.com/)
 - [Claude AI](https://claude.ai/)
 - [Grok](https://grok.com/)
+- [Google Gemini](https://gemini.google.com/app?hl=de)
 
 #### Links
 
