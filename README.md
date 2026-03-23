@@ -10,9 +10,11 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 
 ## 🔎 AI Search Tools
 
-#### AI Tools context with Search Engines
+#### Knwown (GEN) AI Tools
 
-- [Google](https://www.google.de/)
+- [OpenAI](https://openai.com/)
+- [Claude AI](https://claude.ai/)
+- [Grok](https://grok.com/)
 
 #### Links
 
@@ -24,7 +26,11 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 - [Scribe AI](https://chromewebstore.google.com/detail/scribe-ai-documentation-s/okfkdaglfjjjfefdcppliegebpoegaii)
 - [Superpower for ChatGPT](https://chromewebstore.google.com/detail/superpower-for-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc)
 
-#### Commercial AI Tools 
+#### Commercial AI Tools for Sourcing and HR 
+
+-[Talentwunder](https://talentwunder.com/)
+-[Juicebox AI](https://juicebox.ai/)
+-[Beskar AI](https://beskar.io/)
 
 #### Recommended hot 🔥 Newsletters
 
