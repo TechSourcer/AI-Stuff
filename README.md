@@ -37,6 +37,11 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 - [SuperpowerDaily](https://www.superpowerdaily.com/)
 - [Alpha Signal AI](https://alphasignal.ai/)
 
+#### AI Text to Video
+
+- [Freepik AI](https://de.freepik.com/)
+- [Deevid Ai]
+  
 
 
 
