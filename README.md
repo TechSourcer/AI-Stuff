@@ -11,7 +11,7 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 
 ## 🔎 AI Search Tools
 
-#### Knwown (GEN) AI Tools
+#### Most used (GEN) AI Tools for the masses
 
 - [OpenAI](https://openai.com/)
 - [Claude AI](https://claude.ai/)
