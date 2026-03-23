@@ -7,6 +7,7 @@ Here you will find everything about AI e.g.
 - Recommended Newsletters
 
 Note: The usage of any of these resources are at your ownrisk. Hence I am not responsible for your safety / compliance / relationship or anything else. Just for education / demonstration purposes
+## ALL: As soon I will get updates - those will follow!
 
 ## 🔎 AI Search Tools
 
@@ -56,7 +57,7 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 - [Genai Works Ranking List](https://genai.works/ranking)
 - [AI Multiple - discover AI & SW Benachmarks](https://aimultiple.com/)
 
-#### Certifications (only in Germany 🇩🇪 )
+#### AI Certifications (only in Germany 🇩🇪 )
 
 - [mITSM - AI Foundation](https://www.mitsm.de/schulung/ki-kompetenz/ai-professional/)
 - [Hasso Plattner Institute](https://hpi.de/d-school/professionals/themen/ki/#c8890)
