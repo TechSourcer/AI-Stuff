@@ -29,7 +29,9 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 #### Commercial AI Tools for Sourcing and HR 
 
 -[Talentwunder](https://talentwunder.com/)
+
 -[Juicebox AI](https://juicebox.ai/)
+
 -[Beskar AI](https://beskar.io/)
 
 #### Recommended hot 🔥 Newsletters
