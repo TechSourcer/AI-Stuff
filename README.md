@@ -55,8 +55,10 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 - [Genai Works Ranking List](https://genai.works/ranking)
 - [AI Multiple - discover AI & SW Benachmarks](https://aimultiple.com/)
 
+#### Certifications (only in Germany 🇩🇪 )
 
-Have fun!!!
+- [mITSM - AI Foundation](https://www.mitsm.de/schulung/ki-kompetenz/ai-professional/)
+- [Hasso Plattner Institute](https://hpi.de/d-school/professionals/themen/ki/#c8890)
 
 
 
