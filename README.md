@@ -6,8 +6,8 @@ Here you will find everything about AI e.g.
 - Extensions
 - Recommended Newsletters
 
-Note: The usage of any of these resources are at your ownrisk. Hence I am not responsible for your safety / compliance / relationship or anything else. Just for education / demonstration purposes
-## ALL: As soon I will get updates - those will follow!
+Note: The usage of any of these resources are at your own risk. Hence I am not responsible for your safety / compliance / relationship or anything else. Just for education / demonstration purposes
+
 
 ## 🔎 AI Search Tools
 
