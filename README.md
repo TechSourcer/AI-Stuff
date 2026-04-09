@@ -57,6 +57,13 @@ Note: The usage of any of these resources are at your own risk. Hence I am not r
 - [Genai Works Ranking List](https://genai.works/ranking)
 - [AI Multiple - discover AI & SW Benachmarks](https://aimultiple.com/)
 
+## AI Visual Job Market
+
+Helpful and easy visualizer for AI Job Market e.g. filtering median salary, ranking, search filter for jobs...
+
+- [KI Jobatlas Visualizer](https://jobs.stefanai.de/) - Job Market Visualizer for Germany from Stefan.ai
+- [US Job Market Visualizer](https://karpathy.ai/jobs/) - Job Market Visualizer for US from Karpathy
+
 #### AI Certifications (only in Germany 🇩🇪 )
 
 - [mITSM - AI Foundation](https://www.mitsm.de/schulung/ki-kompetenz/ai-professional/)
