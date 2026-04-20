@@ -33,6 +33,9 @@ Note: The usage of any of these resources are at your own risk. Hence I am not r
 - [Talentwunder](https://talentwunder.com/)
 - [Juicebox AI](https://juicebox.ai/)
 - [Beskar AI](https://beskar.io/)
+- [Gem AI](https://www.gem.com/?i=1)
+- [Metaview AI](https://www.gem.com/?i=1)
+- [Scalis AI](https://scalis.ai/)
 
 #### Recommended hot 🔥 Newsletters
 
