@@ -72,6 +72,10 @@ Helpful and easy visualizer for AI Job Market e.g. filtering median salary, rank
 - [mITSM - AI Foundation](https://www.mitsm.de/schulung/ki-kompetenz/ai-professional/)
 - [Hasso Plattner Institute](https://hpi.de/d-school/professionals/themen/ki/#c8890)
 
+#### AI CRM Tools (Leads LinkedIn etc.)
+
+-[Bizzy AI](https://bizzy.ai/de/)
+
 
 
   
