@@ -74,12 +74,12 @@ Helpful and easy visualizer for AI Job Market e.g. filtering median salary, rank
 
 #### AI CRM Tools (Leads LinkedIn etc.)
 
--[Bizzy AI](https://bizzy.ai/de/)
+- [Bizzy AI](https://bizzy.ai/de/)
 
 #### AI Blog (worth to read)
 
--[Official Google AI news and Updates](https://blog.google/innovation-and-ai/technology/ai/)
--[Bens Bites Substack](https://www.bensbites.com/)
+- [Official Google AI news and Updates](https://blog.google/innovation-and-ai/technology/ai/)
+- [Bens Bites Substack](https://www.bensbites.com/)
 
 
 
