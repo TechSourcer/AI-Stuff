@@ -78,8 +78,8 @@ Helpful and easy visualizer for AI Job Market e.g. filtering median salary, rank
 
 #### AI Blog (worth to read)
 
--[https://blog.google/innovation-and-ai/technology/ai/] - Official Google AI news and updates
--[https://www.bensbites.com/] - Bens Bites Substack
+-[Official Google AI news and Updates](https://blog.google/innovation-and-ai/technology/ai/)
+-[Bens Bites Substack](https://www.bensbites.com/)
 
 
 
