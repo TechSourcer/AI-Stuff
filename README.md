@@ -76,6 +76,12 @@ Helpful and easy visualizer for AI Job Market e.g. filtering median salary, rank
 
 -[Bizzy AI](https://bizzy.ai/de/)
 
+#### AI Blog (worth to read)
+
+-[https://blog.google/innovation-and-ai/technology/ai/] - Official Google AI news and updates
+-[https://www.bensbites.com/] - Bens Bites Substack
+
+
 
 
   
