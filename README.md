@@ -37,6 +37,7 @@ Note: The usage of any of these resources are at your own risk. Hence I am not r
 - [Metaview AI](https://www.gem.com/?i=1)
 - [Scalis AI](https://scalis.ai/)
 - [Herohunt AI](https://www.herohunt.ai/)
+  
 
 #### Recommended hot 🔥 Newsletters
 
